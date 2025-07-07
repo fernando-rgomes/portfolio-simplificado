@@ -25,5 +25,5 @@ Este é um portfólio pessoal desenvolvido por Fernando Ribeiro Gomes Júnior pa
 ## Como rodar
 
 1. Clone este repositório.
-2. Abra o arquivo `index.html` em seu navegador ou simplesmente utilize a extensão Live Server, clicando no ícone GO LIVE na parte inferior direita do VS CODE.
+2. Abra o arquivo `index.html` em seu navegador ou simplesmente utilize a extensão Live Server, clicando no ícone "GO LIVE" na parte inferior direita do VS CODE.
 
