@@ -9,10 +9,6 @@ Este é um portfólio pessoal desenvolvido por Fernando Ribeiro Gomes Júnior pa
 - **Botão "Mostrar mais"**: exibe mais projetos ao ser clicado.
 - **Links para redes sociais**: LinkedIn, WhatsApp, GitHub e Instagram.
 - **Design moderno** com animações e responsividade para diferentes tamanhos de tela.
-- **index.html**: Página principal do portfólio.
-- **src/css/**: Arquivos de estilos (reset, estilos principais e responsividade).
-- **src/imagens/**: Imagens utilizadas no portfólio e nos projetos.
-- **src/js/index.js**: Script responsável pela interação do botão "Mostrar mais".
 
 ## Como funciona
 
@@ -29,5 +25,5 @@ Este é um portfólio pessoal desenvolvido por Fernando Ribeiro Gomes Júnior pa
 ## Como rodar
 
 1. Clone este repositório.
-2. Abra o arquivo `index.html` em seu navegador.
+2. Abra o arquivo `index.html` em seu navegador ou simplesmente utilize a extensão Live Server, clicando no ícone GO LIVE na parte inferior direita do VS CODE.
 
